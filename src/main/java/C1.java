@@ -9,10 +9,7 @@ public class C1 {
 		System.out.println("Akhila Code");
 		System.out.println("Akhila Code");
 		System.out.println("Akhila Code");
-		
-		
-		
-		System.out.println("Test1");
+		System.out.println("Txzczxest1");
 	}
 
 }
